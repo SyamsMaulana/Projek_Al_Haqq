@@ -1,0 +1,2 @@
+git add status.sh identity.json
+git commit -m "Deployment Ready: The Silver Iron Chef"
